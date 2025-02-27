@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "Node16",
+        "moduleResolution": "node16",
+        "target": "es5",
+        "lib": [
+            "es5",
+            "dom"
+        ],
+        "types": [
+            "cypress",
+            "node",
+            "cypress-file-upload",
+            "@badeball/cypress-cucumber-preprocessor"
+        ]
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}

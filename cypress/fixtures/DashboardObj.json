@@ -1,0 +1,23 @@
+{
+  "showBalanceField": "img.cursor-pointer",
+  "userName": "standard_user",
+  "selectAllField": "See All",
+  "searchField": "input#searchInput",
+  "search": "wls_41M6YWNRGU3JLXT1739306991",
+  "search2": "wls_3LH5C6PKNJZGMBS1739304392",
+  "search3": "Z9LUK71R4DMQTHA1739307406",
+  "backBtnField": "Back",
+  "accountNumber" :9391316588,
+  "actionView": "img[alt='Eye Icon']",
+  "businessNameField": "input#business_name",
+  "businessName": "Laja-Test-NG",
+  "bvnField": "input#bvn",
+  "bvn": 22293545473,
+  "ninField": "input#nin",
+  "nin": 22293545474,
+  "phoneNumberField": "input#phone_number",
+  "phoneNumber" : "08065671606",
+  "rcNumberField": "input#rc_number",
+  "rcNumber": "KA12U9999"
+
+}
